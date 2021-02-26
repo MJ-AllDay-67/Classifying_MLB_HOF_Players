@@ -1,9 +1,17 @@
-# Project_3
+# Classifying MLB Hall Of Fame Players
 
-https://ewscripps.brightspotcdn.com/dims4/default/866688b/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.wtxl.com%2Fwtxl.com%2Fcontent%2Ftncms%2Fassets%2Fv3%2Feditorial%2Fc%2Fdd%2Fcdd7cba0-bcd2-11e4-adcf-470a808f920e%2F54ed9978b99f5.image.jpg
+**Author**: Michael Tiernan
 
-Introduction
-The main goal of this project is to create a classification model.
+##Brief History
+In recent years, we have seen how data has transformed the world of sports - most notably for me, Major League Baseball (MLB) teams implementing "the shift," but turn on any live sporting event and you will see things like launch-angle and distance tracking. Turn on ESPN and they have full segments on "sport science", tracking a player's acceleration, speed, power, or things like best route taken, all powered using Amazon's AWS system. 
+
+This whole movement into data-backed analysis for sport started with Major League Baseball General Manager, Billy Beane, of the Oakland Athletics'. His storied success was turned into a book and later box-office hit movie, "Moneyball." 
+
+##Business Problem
+With the history of using data for sport starting in baseball, it is no surprise that baseball is leaps and bounds ahead of all other major sports in using data analytics. But there is another important subset of sports that is behind in this data analytics arena as well, and that is the sports management agencies. 
+
+
+
 
 Objectives
 The question I was looking to answer:
