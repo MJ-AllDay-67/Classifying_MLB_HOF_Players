@@ -31,7 +31,7 @@ For modeling, I chose to work mostly with DecisionTree classifiers. Logisitc reg
 (Pete Rose, Alex Rodriguez, Barry Bonds, Sammy Sosa, Mark McGwire, Manny Ramirez, and David Ortiz).
 
 ## Findings
-
+I found
 
 
 ## Recommendations
