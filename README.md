@@ -5,7 +5,7 @@
 **Author**: Michael Tiernan
 
 ## Brief History
-In recent years, we have seen how data has transformed the world of sports - most notably for me, Major League Baseball (MLB) teams implementing "the shift," but turn on any live sporting event and you will see things like launch-angle and distance tracking. Turn on ESPN and they have full segments on "sport science", tracking a player's acceleration, speed, power, or things like best route taken, all powered using Amazon's AWS system. 
+In recent years, we have seen how data has transformed the world of sports - most notably for me, Major League Baseball (MLB) teams implementing "the shift" - but turn on any live sporting event and you will see things like launch-angle and distance tracking. Turn on ESPN and they have full segments on "sport science", tracking a player's acceleration, speed, power, or things like best route taken, all powered using Amazon's AWS system. 
 
 This whole movement into data-backed analysis for sport started with Major League Baseball General Manager, Billy Beane, of the Oakland Athletics'. His storied success was turned into a book and later box-office hit movie, "Moneyball." 
 
