@@ -30,21 +30,21 @@ For this project I stuck to the CRISP-DM method. After retrieving the data, I cl
 
 For modeling, I chose to work mostly with DecisionTree classifiers. Logisitc regression was used intially, but due to the high multicolinearity effecting many of my main features, I had to focus mainly on DecisionTrees. I prioritized accuracy as my main metric, but also set out to have high recall score as well so that my model was focused on rewarding those who deserve to be in the HOF and making sure we were not missing them in my binary classification models; HOF or not.
 
-*The following players were removed from the data after running a couple models with them included. The players were those who have HOF numbers, but are currently banned by the MLB HOF committee due to Performance Enhancing Drugs (PEDs) use or other reasons:
+**The following players were removed from the data after running a couple models with them included. The players were those who have HOF numbers, but are currently banned by the MLB HOF committee due to Performance Enhancing Drugs (PEDs) use or other reasons:
 (Pete Rose, Alex Rodriguez, Barry Bonds, Sammy Sosa, Mark McGwire, Manny Ramirez, Rafael Palmero, and David Ortiz).
 
 ## Findings
 I found the stats both by position and overall playing career.
 ![stats_subplots](https://user-images.githubusercontent.com/67566192/109269259-40487b80-77da-11eb-9537-db72fbce3be8.png)
 
-While it is clear that HOF players are vastly better than the rest of the field in every stat, there are different requirements depending on position i.e. Catchers ('C') not heavily rated on the number of hits or Shortstops ('SS') not heavily rated on homeruns. 
+Looking at the visuals above, it is clear that HOF players are vastly better than the rest of the field in every stat, however, there are different requirements depending on position i.e. Catchers ('C') not heavily rated on the number of hits or Shortstops ('SS') not heavily rated on homeruns. 
 
 
 
 ![hits](https://user-images.githubusercontent.com/67566192/109270845-a6ce9900-77dc-11eb-9621-0721baae4381.png)
 
-As you can see from this second graph above, the vast majority of MLB leaders in career hits are HOFers. 
-*Also note one of the players noted above that is banned from the HOF, Pete Rose is the all-time leader in hits, which you can see here.
+As you can see from this second graph above, the vast majority of MLB leaders in career hits are HOFers (HOFers denoted by orange plots). 
+**Also note one of the players noted above that is banned from the HOF, Pete Rose is the all-time leader in hits, but not a HOF (blue plot).
 
 
 ## Recommendations
