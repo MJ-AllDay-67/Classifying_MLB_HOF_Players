@@ -19,7 +19,7 @@ Null hypothesis (HO): Hits and Home Runs have no relationship to a player being 
 Alternative hypothesis (Ha): Hits and Home Runs do have a relationship with a player being inducted into the HOF.
 
 ## Data
-The data used in this analysis comes from [Lahman's Baseball Database] (http://www.seanlahman.com/baseball-archive/statistics/) as well as [baseballsavant](https://baseballsavant.mlb.com/leaderboard/custom?year=2019,2018,2017,2016,2015&type=batter&filter=&sort=4&sortDir=desc&min=q&selections=xba,xslg,xwoba,xobp,xiso,exit_velocity_avg,launch_angle_avg,barrel_batted_rate,&chart=false&x=xba&y=xba&r=no&chartType=beeswarm). After joining and manipulating the data, I ended up with 2,316 rows and 37 features (or stats) used to classify if a player is a HOFer or not. 
+The data used in this analysis comes from [Lahman's Baseball Database](http://www.seanlahman.com/baseball-archive/statistics/) as well as [baseballsavant](https://baseballsavant.mlb.com/leaderboard/custom?year=2019,2018,2017,2016,2015&type=batter&filter=&sort=4&sortDir=desc&min=q&selections=xba,xslg,xwoba,xobp,xiso,exit_velocity_avg,launch_angle_avg,barrel_batted_rate,&chart=false&x=xba&y=xba&r=no&chartType=beeswarm). After joining and manipulating the data, I ended up with 2,316 rows and 37 features (or stats) used to classify if a player is a HOFer or not. 
 
 
 ## Method
