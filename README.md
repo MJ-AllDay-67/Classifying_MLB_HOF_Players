@@ -28,7 +28,7 @@ For this project I stuck to the CRISP-DM method. After retrieving the data, I cl
 For modeling, I chose to work mostly with DecisionTree classifiers. Logisitc regression was used intially, but due to the high multicolinearity effecting many of my main features, I had to focus mainly on DecisionTrees. I prioritized accuracy as my main metric, but also set out to have high recall score as well so that my model was focused on rewarding those who deserve to be in the HOF and making sure we were not missing them in my binary classification models; HOF or not.
 
 *The following players were removed from the data after running a couple models with them included. The players were those who have HOF numbers, but are currently banned by the MLB HOF committee due to Performance Enhancing Drugs (PEDs) use or other reasons:
-(Pete Rose, Alex Rodriguez, Barry Bonds, Sammy Sosa, Mark McGwire, Manny Ramirez, and David Ortiz).
+(Pete Rose, Alex Rodriguez, Barry Bonds, Sammy Sosa, Mark McGwire, Manny Ramirez, Rafael Palmero, and David Ortiz).
 
 ## Findings
 I found
