@@ -48,8 +48,11 @@ As you can see from this second graph above, the vast majority of MLB leaders in
 
 
 ## Recommendations
-
+![feature_importances_best](https://user-images.githubusercontent.com/67566192/109297156-8cf27d80-77ff-11eb-9032-08d929033f29.png)
+The most important stats when it comes to evaluating a HOF player is Hits, Runs, and All-Star games made. With this newfound, I recommend to my client that they should use these metrics when negotiating their current contracts as well as look for active and upcoming players with these stats in mind. They will pay off large when these players sign their hundred-million dollar contracts! 
 
 ## Conclusion and Future Work
+While my best model performed effectively with a 86% recall and 94% accuracy, it does not meet the requirement of within 5% to reject the null hypothesis. 
 
+I am happy with the performance of my model, but with more time I would have loved to go deeper into the world of sabermetrics and work with stats like OPS+, WOBA, and WAR. These are stats that have come to more accurately define a player's ability, but I was unable to find this data, and calculating them is an extensive task because you must account for the time periods in which these players played in order to accurately implement these stats.
     
