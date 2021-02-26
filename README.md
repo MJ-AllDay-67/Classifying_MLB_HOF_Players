@@ -49,6 +49,7 @@ As you can see from this second graph above, the vast majority of MLB leaders in
 
 ## Recommendations
 ![feature_importances_best](https://user-images.githubusercontent.com/67566192/109297156-8cf27d80-77ff-11eb-9032-08d929033f29.png)
+
 The most important stats when it comes to evaluating a HOF player is Hits, Runs, and All-Star games made. With this newfound, I recommend to my client that they should use these metrics when negotiating their current contracts as well as look for active and upcoming players with these stats in mind. They will pay off large when these players sign their hundred-million dollar contracts! 
 
 ## Conclusion and Future Work
