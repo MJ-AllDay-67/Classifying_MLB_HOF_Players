@@ -1,3 +1,5 @@
+![HOF_cover](https://user-images.githubusercontent.com/67566192/109255123-5990fe00-77c1-11eb-94e9-254e184c0b78.jpg)
+
 # Classifying MLB Hall Of Fame Players
 
 **Author**: Michael Tiernan
