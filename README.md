@@ -41,6 +41,11 @@ While it is clear that HOF players are vastly better than the rest of the field 
 
 
 
+![hits](https://user-images.githubusercontent.com/67566192/109270845-a6ce9900-77dc-11eb-9621-0721baae4381.png)
+
+As you can see from this second graph above, the vast majority of MLB leaders in career hits are HOFers. 
+*Also note one of the players noted above that is banned from the HOF, Pete Rose is the all-time leader in hits, which you can see here.
+
 
 ## Recommendations
 
