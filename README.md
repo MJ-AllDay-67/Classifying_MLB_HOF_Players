@@ -12,7 +12,10 @@ This whole movement into data-backed analysis for sport started with Major Leagu
 ## Business Problem
 With the history of using data for sport starting in baseball, it is no surprise that baseball is leaps and bounds ahead of all other major sports in using data analytics. But there is another important subset of sports that is behind in this data analytics arena as well, and that is the sports management agencies. 
 
-My consulting firm focuses on this aspect of the sports business. For this particular client we are looking to uncover what type of player makes it to the Hall Of Fame (HOF) so that he can 1) use these findings to help navigate current contract negotiations, and 2) target players to sign in the future if they fit this profile. 
+My consulting firm focuses on this aspect of the sports business. For this particular client we are looking to:
+1) Uncover what stats make a Hall Of Fame (HOF) player
+2) Use these findings to help navigate current contract negotiations
+3) Target active players to sign if they are on a HOF trajectory 
 
 ## Hypothesis
 Null hypothesis (HO): Hits and Home Runs have no relationship to a player being inducted into the HOF. 
@@ -31,7 +34,8 @@ For modeling, I chose to work mostly with DecisionTree classifiers. Logisitc reg
 (Pete Rose, Alex Rodriguez, Barry Bonds, Sammy Sosa, Mark McGwire, Manny Ramirez, Rafael Palmero, and David Ortiz).
 
 ## Findings
-I found
+I found the stats both by position and overall playing career.
+('./images/hits.png)
 
 
 ## Recommendations
